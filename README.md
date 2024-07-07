@@ -1,4 +1,3 @@
-## IA626_Fall2023_FinalProjectRadhikaTejaswini
 # WEATHER AND AIR POLLUTION DATA NY
 ## Weather Data:
 
